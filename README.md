@@ -1,4 +1,4 @@
-<h1>Hi, Iam Batlotjoa</h2>
+<h1>Hi, I am Batlotjoa Matabane</h2>
 I am an aspiring Data analyst/Scientist. My main Goal is to grow fondly in this Data Science Field and become a top leadIng Data Scientist.
 
 
