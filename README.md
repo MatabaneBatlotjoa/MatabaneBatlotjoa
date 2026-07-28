@@ -1,8 +1,8 @@
-<h1>Hi, I'm Batlotjoa!</h2>
-I am a Data analyst/Scientist
+<h1>Hi, I'm Batlotjoa</h2>
+I am an aspiring Data analyst/Scientist. My main Goal is to grow fondly in this Data Science Field and become a top leadIng Data Scientist.
 
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>My Projects:</h2>To be blunt I prefare to have my work Speak for me so below is some of the work I enjoyed working on
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
